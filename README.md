@@ -1,1 +1,1 @@
-# Solid-ICT-Chat-
+# Solid-Ict-Chat-
